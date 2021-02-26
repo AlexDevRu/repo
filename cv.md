@@ -8,15 +8,15 @@ I have special secondary education. Now I am studying in BSUIR.
 I am responsible, executive, diligent, stress-resistant. I easily learn new things.  
 There is no work experience, but there is a great desire to study and develop in the IT field.
 ## Skills
--	C#, .NET, WPF, WinForms
--	Python 3, Django
--	HTML, CSS, JavaScript, jQuery
--	React.js
--	REST API
--	SQL
--	Object Oriented Programming
--	SOLID
--	Git
+- C#, .NET, WPF, WinForms
+- Python 3, Django
+- HTML, CSS, JavaScript, jQuery
+- React.js
+- REST API
+- SQL
+- Object Oriented Programming
+- SOLID
+- Git
 ## Coding
 	function deepEqual(obj1, obj2) {
 		let prop1 = Object.keys(obj1);
@@ -40,7 +40,7 @@ There is no work experience, but there is a great desire to study and develop in
 
 			if(value1 !== null && value2 !== null && is_obj1 && is_obj2)
 				if(!deepEqual(obj1[p1], obj2[p2]))
-					return false;	
+					return false;  
 		}
 		return true;
 	}
